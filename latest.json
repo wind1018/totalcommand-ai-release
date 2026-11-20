@@ -4,7 +4,8 @@
     "released":  "2026-11-20",
     "file":  "TcAi-Setup-0.2.0.exe",
     "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.2.0/TcAi-Setup-0.2.0.exe",
-    "sha256":  "2fcc7d931056e647b918fb3d3e30f0c4c09f8601109805c67bca62bfd068963e",
-    "size":  38066320,
-    "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1"
+    "sha256":  "002bf60f905a7048669c80b2e0dd1015fb001a3a8d666bc257adb641056be31e",
+    "size":  38073528,
+    "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
+    "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6"
 }
