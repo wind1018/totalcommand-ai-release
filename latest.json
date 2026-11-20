@@ -1,12 +1,12 @@
 {
-    "version":  "0.5.2",
-    "tag":  "v0.5.2",
-    "released":  "2026-11-20",
-    "file":  "TcAi-Setup-0.5.2.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.5.2/TcAi-Setup-0.5.2.exe",
-    "sha256":  "8368a9b1343a8af63a291ccb53c890dd7a82b9a79ae71552e179874908e85f89",
-    "size":  38088848,
+    "version":  "0.5.3",
+    "tag":  "v0.5.3",
+    "released":  "2026-11-21",
+    "file":  "TcAi-Setup-0.5.3.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.5.3/TcAi-Setup-0.5.3.exe",
+    "sha256":  "2a57be394d46fe8f1286233f4ab86d63b3c57c49d0a6eac77a5d770087cdf7b5",
+    "size":  38089344,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "새로 설치한 Total Commander 에서 TC AI 버튼이 생기지 않던 문제를 고쳤습니다(버튼 등록에 실패하면 직접 넣는 방법도 안내). 이름을 TC AI 로 통일했습니다."
+    "notes":  "TC 설치 형태(c:\\totalcmd, 휴대용 설정 등)에 따라 TC AI 버튼이 보이지 않던 문제를 고쳤습니다. TC 가 읽을 수 있는 버튼바 모두에 버튼을 넣고, 결과를 %APPDATA%\\tc-ai\\install_button.log 에 남깁니다."
 }
