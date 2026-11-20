@@ -1,12 +1,12 @@
 {
-    "version":  "0.3.0",
-    "tag":  "v0.3.0",
+    "version":  "0.5.0",
+    "tag":  "v0.5.0",
     "released":  "2026-11-20",
-    "file":  "TcAi-Setup-0.3.0.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.3.0/TcAi-Setup-0.3.0.exe",
-    "sha256":  "448aaf29e939c57aa992e099e46a00fc48cd33ac8a37a1c940283b781e79bc79",
-    "size":  38082776,
+    "file":  "TcAi-Setup-0.5.0.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.5.0/TcAi-Setup-0.5.0.exe",
+    "sha256":  "846233d64e7d1a76a5956dd1e4f805e9fbec0752aab898dd6e1daa32725bdc7e",
+    "size":  38086624,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "자동 업데이트: 패널이 새 버전을 확인해 채팅 카드로 알리고, 해시와 코드 서명을 확인한 뒤 설치합니다. 설정 › 정보 에서 끄거나 직접 확인할 수 있습니다. 0.2.0 에서는 이 설치 파일을 한 번 직접 실행해야 합니다."
+    "notes":  "대화창에서 토미에 대한 불편이나 바라는 점을 말하면 개발자에게 수정 요청으로 보낼 수 있습니다(GitHub 계정 필요 없음). 사용자 데이터(대화 기록·스킬·고른 모델·알려진 폴더·붙여넣은 그림)를 %APPDATA%\\tc-ai 한 곳으로 모았고, 예전 데이터는 처음 켤 때 자동으로 옮깁니다."
 }
