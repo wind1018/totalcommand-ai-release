@@ -1,12 +1,12 @@
 {
-    "version":  "0.5.4",
-    "tag":  "v0.5.4",
+    "version":  "0.5.5",
+    "tag":  "v0.5.5",
     "released":  "2026-11-21",
-    "file":  "TcAi-Setup-0.5.4.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.5.4/TcAi-Setup-0.5.4.exe",
-    "sha256":  "710a4c8e8711c8dfd9311307bda23695b160c17c2a93b250a02338a9af68a37f",
-    "size":  38090632,
+    "file":  "TcAi-Setup-0.5.5.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.5.5/TcAi-Setup-0.5.5.exe",
+    "sha256":  "32df8b20ae3ed49bc43472991e90f768ea0aaf85fcbd6bdfae6e5611e32a8f2a",
+    "size":  38095552,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "0.3.0~0.5.3 에서 TC AI 버튼을 눌러도 패널이 열리지 않던 문제를 고쳤습니다. 이 버전들은 패널이 열리지 않아 자동 업데이트도 받지 못하므로, 이 설치 파일을 직접 한 번 실행해 주세요."
+    "notes":  "연결 설정을 서버 주소, API 키, 모델 순서로 바꾸고 \u0027저장하고 연결\u0027 한 번으로 적용되게 했습니다(키를 넣으면 모델 목록을 자동으로 불러옴). 패널 위쪽의 새 대화(+) 버튼이 잘려 보이지 않던 문제와 수정 요청 대화 흐름도 고쳤습니다."
 }
