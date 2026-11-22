@@ -1,12 +1,12 @@
 {
-    "version":  "0.6.2",
-    "tag":  "v0.6.2",
+    "version":  "0.6.3",
+    "tag":  "v0.6.3",
     "released":  "2026-11-22",
-    "file":  "TcAi-Setup-0.6.2.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.2/TcAi-Setup-0.6.2.exe",
-    "sha256":  "7e3191ab36b3ece2fd08640b43a377a4f2f7138f614c5e6b35aba8527254eda3",
-    "size":  38548472,
+    "file":  "TcAi-Setup-0.6.3.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.3/TcAi-Setup-0.6.3.exe",
+    "sha256":  "a43bbf0574cd0c279f463c5267ba235ec67875c99bc14bb458bbaffe2503ec55",
+    "size":  38559368,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "탭 닫아 줘가 새 탭을 열던 문제, 별도 트리가 숨김 파일 표시를 바꾸던 문제 수정"
+    "notes":  "보안 수정(업데이트 권장): 채팅에 붙이거나 금고에 저장한 비밀 값의 앞부분(계정 묶음은 첫 줄)이 AI 모델·대화 기록·로그·금고 목록에 보이던 문제 수정. 업데이트 뒤 처음 켤 때 금고 파일에 남은 앞부분을 정리합니다(저장한 값은 그대로)\n- 이전 버전에서 계정 묶음 첫 줄에 암호만 적었거나 짧은 암호를 붙인 적이 있으면 그 암호는 바꾸기를 권장합니다. 예전 대화 기록·로그·금고 백업 파일에 남은 조각은 자동으로 지우지 않습니다\n- 대화로 금고 찾기: 서버 이름·IP·계정 정보가 있는지 물으면 금고 열기 링크로 안내\n- 금고가 잠겨 있어도 제목·서버 이름·IP 로 찾기. 더 필요하면 작은 암호 창으로 그 한 번만 본문까지 찾기(금고는 잠긴 채, 내용에서 찾은 결과는 AI 모델로 보내지 않음)\n- 계정 묶음을 붙여 저장할 때 제목을 모델에 보내지 않으므로, 이름을 말하지 않으면 저장할 이름을 한 번 묻습니다\n- 비밀번호 있던가 같은 물음말이 비밀 값으로 가려지던 문제, 일부 금고 항목이 열리지 않던 문제 수정"
 }
