@@ -1,12 +1,12 @@
 {
-    "version":  "0.6.9",
-    "tag":  "v0.6.9",
+    "version":  "0.6.10",
+    "tag":  "v0.6.10",
     "released":  "2026-11-25",
-    "file":  "TcAi-Setup-0.6.9.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.9/TcAi-Setup-0.6.9.exe",
-    "sha256":  "1abe35a8fb089c5879a672f69f94d9eeed5febe59115e31a8bdc22fea14e323d",
-    "size":  38674152,
+    "file":  "TcAi-Setup-0.6.10.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.10/TcAi-Setup-0.6.10.exe",
+    "sha256":  "baf33cd9b7d99094af7beb90fad9ecd14f9962fdd894fc7274c8da7cb8353f9f",
+    "size":  38675912,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "- 금고 창 아래에 내보내기·가져오기를 넣었습니다. 내보낸 파일(.tcvault)은 정한 암호로 묶여 다른 PC 에서도 그 암호로 엽니다.\n- 가져올 때 항목마다 넣을 곳(새 항목 또는 금고의 아무 항목)을 고르고, 대상 양식에 맞춰 표 행으로 넣기·줄 골라 붙이기·전체 이어 붙이기·바꾸기·건너뛰기 중에서 고릅니다."
+    "notes":  "- 금고 내보내기·가져오기에서 보기 2단계 암호를 맨 먼저 묻습니다. 틀리면 이유를 보이며 다시 묻습니다(전에는 상태줄에만 알리고 조용히 그만둬 저장된 것처럼 보였습니다).\n- 내보내기 결과(저장한 경로나 실패 이유)와 가져오기 파일을 못 연 이유를 알림 창으로 보입니다."
 }
