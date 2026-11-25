@@ -1,12 +1,12 @@
 {
-    "version":  "0.6.8",
-    "tag":  "v0.6.8",
+    "version":  "0.6.9",
+    "tag":  "v0.6.9",
     "released":  "2026-11-25",
-    "file":  "TcAi-Setup-0.6.8.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.8/TcAi-Setup-0.6.8.exe",
-    "sha256":  "21f7018870a1437452a19e3320c6e6419e5607e473723a0fffb8cdbd148f4eff",
-    "size":  38658296,
+    "file":  "TcAi-Setup-0.6.9.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.9/TcAi-Setup-0.6.9.exe",
+    "sha256":  "1abe35a8fb089c5879a672f69f94d9eeed5febe59115e31a8bdc22fea14e323d",
+    "size":  38674152,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "- 설정 창을 닫을 때 저장하지 않았다는 물음에서 \u0027예\u0027 를 눌러도 저장되지 않고 같은 물음이 되풀이되던 문제를 고쳤습니다(다른 설정 페이지를 보다가 닫은 경우)."
+    "notes":  "- 금고 창 아래에 내보내기·가져오기를 넣었습니다. 내보낸 파일(.tcvault)은 정한 암호로 묶여 다른 PC 에서도 그 암호로 엽니다.\n- 가져올 때 항목마다 넣을 곳(새 항목 또는 금고의 아무 항목)을 고르고, 대상 양식에 맞춰 표 행으로 넣기·줄 골라 붙이기·전체 이어 붙이기·바꾸기·건너뛰기 중에서 고릅니다."
 }
