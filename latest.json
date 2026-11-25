@@ -1,12 +1,12 @@
 {
-    "version":  "0.6.10",
-    "tag":  "v0.6.10",
+    "version":  "0.6.11",
+    "tag":  "v0.6.11",
     "released":  "2026-11-25",
-    "file":  "TcAi-Setup-0.6.10.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.10/TcAi-Setup-0.6.10.exe",
-    "sha256":  "baf33cd9b7d99094af7beb90fad9ecd14f9962fdd894fc7274c8da7cb8353f9f",
-    "size":  38675912,
+    "file":  "TcAi-Setup-0.6.11.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.11/TcAi-Setup-0.6.11.exe",
+    "sha256":  "728f4242ff8ac971cf9d9e8c6e86d08ef8675d507a1275b9b95aa322ac0bfb98",
+    "size":  38688768,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "- 금고 내보내기·가져오기에서 보기 2단계 암호를 맨 먼저 묻습니다. 틀리면 이유를 보이며 다시 묻습니다(전에는 상태줄에만 알리고 조용히 그만둬 저장된 것처럼 보였습니다).\n- 내보내기 결과(저장한 경로나 실패 이유)와 가져오기 파일을 못 연 이유를 알림 창으로 보입니다."
+    "notes":  "- 관리자 권한이 필요한 일(프로그램 설치·서비스·시스템 설정)을 토미에게 맡길 수 있습니다. 승인 카드에 스크립트 전문, 경고, 실행 파일의 서명 게시자가 보이고, 승인하면 Windows 의 UAC 창이 이어서 뜹니다. 둘 다 눌러야 실행됩니다.\n- 카드의 [이 대화에서 계속 허용] 을 누르면 그 대화에서는 카드를 생략하고 UAC 창만 뜹니다. 삭제·내려받기·레지스트리·서비스 등록·계정·방화벽 변경과 서명이 없는 프로그램은 계속 묻고, 카드 없이 실행한 명령은 답 끝에 전문이 붙습니다.\n- 입력창에 /관리자 계획 켜기 를 치면 계획 승인 후 UAC 한 번 방식을 쓸 수 있습니다(기본 꺼짐). 단계별 스크립트 전문을 카드 한 장으로 승인하면 그 단계들만 실행되고, 계획에 없는 명령은 그때 다시 묻습니다.\n- /관리자 로 상태를 보고 /관리자 끄기 로 끕니다. 디스크 포맷·부팅 설정·복원 지점 삭제·보안 기능 끄기는 관리자 권한으로도 하지 않습니다. 텔레그램 대화와 스킬 단계에서는 관리자 권한 실행을 하지 않습니다."
 }
