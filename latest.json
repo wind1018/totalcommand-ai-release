@@ -1,12 +1,12 @@
 {
-    "version":  "0.6.7",
-    "tag":  "v0.6.7",
-    "released":  "2026-11-24",
-    "file":  "TcAi-Setup-0.6.7.exe",
-    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.7/TcAi-Setup-0.6.7.exe",
-    "sha256":  "86139858487ea61be414267edb4271065e2289202233fe1752df63bc9b7da6b2",
-    "size":  38669184,
+    "version":  "0.6.8",
+    "tag":  "v0.6.8",
+    "released":  "2026-11-25",
+    "file":  "TcAi-Setup-0.6.8.exe",
+    "url":  "https://github.com/wind1018/totalcommand-ai-release/releases/download/v0.6.8/TcAi-Setup-0.6.8.exe",
+    "sha256":  "21f7018870a1437452a19e3320c6e6419e5607e473723a0fffb8cdbd148f4eff",
+    "size":  38658296,
     "silentArgs":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /RELAUNCH=1",
     "thumbprint":  "3D33A012D09FC3A21CBD82F1A0483318A7D441A6",
-    "notes":  "- 연결 설정을 저장했는데 다시 열면 예전 주소로 돌아가고, 닫을 때 저장 물음이 계속 되풀이되던 문제를 고쳤습니다. 설정 파일에 쓰지 못하면 이제 이유를 보여 주고, 읽기 전용 파일도 저장합니다.\n- 서버 주소에 / 가 겹쳐 있어도(예: https://서버//v1) 정리해서 씁니다."
+    "notes":  "- 설정 창을 닫을 때 저장하지 않았다는 물음에서 \u0027예\u0027 를 눌러도 저장되지 않고 같은 물음이 되풀이되던 문제를 고쳤습니다(다른 설정 페이지를 보다가 닫은 경우)."
 }
